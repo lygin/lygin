@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/lygin/mebeats"><img align="right" width="80px" src="https://mebeats.7ie.tech/rate.png"/></a>
-<img align="right" src="https://busy.moe/badges/2?style=for-the-badge"/></a>
-
 ### Hi, I'm **lygin**.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lygin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
