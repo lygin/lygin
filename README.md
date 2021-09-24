@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/wuhan005/mebeats"><img align="right" width="80px" src="https://mebeats.7ie.tech/rate.png"/></a>
+<a href="https://github.com/lygin/mebeats"><img align="right" width="80px" src="https://mebeats.7ie.tech/rate.png"/></a>
 <img align="right" src="https://busy.moe/badges/2?style=for-the-badge"/></a>
 
-### Hi, I'm **lygin**. 🍆
+### Hi, I'm **lygin**.
 
 <a href="https://github.com/lygin?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuhan005&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true" width="45%" />
