@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 🔭 Focus on C/C++ and golang.
 - 🏫 Student at HuaZhong University of science and technology.
 - 🏠 Blog at [cnblogs.com/lygin](https://www.cnblogs.com/lygin).
+- 📧 email at [lygin@foxmail.com]()
 
